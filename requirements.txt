@@ -1,0 +1,7 @@
+aws_cdk.aws-codebuild
+aws_cdk.aws-codecommit
+aws_cdk.aws-codepipeline
+aws_cdk.aws-codepipeline-actions
+aws_cdk.aws-s3
+aws_cdk.aws-iam
+-e .
